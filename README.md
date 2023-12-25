@@ -22,11 +22,4 @@ The "Air Quality Index Analysis" project is a comprehensive exploration of air q
    - The dataset was split into training and validation sets to train the SARIMA model.
    - Model performance was evaluated using appropriate metrics, ensuring its accuracy and reliability.
 
-6. **Forecasting and Future Analysis:**
-   - The trained SARIMA model was applied to forecast future AQI values for each city.
-   - Insights from the forecasting results were used to understand potential air quality trends and patterns.
 
-7. **Project Conclusion:**
-   - The project concludes with a comprehensive analysis of air quality trends, insights from the SARIMA model, and recommendations for improving air quality in specific cities.
-
-The "Air Quality Index Analysis" project provides a valuable tool for policymakers, environmentalists, and city planners to make informed decisions regarding air quality management and public health initiatives.
